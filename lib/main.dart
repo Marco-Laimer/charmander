@@ -4,7 +4,8 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(MaterialApp(
-    title: "",
+    title: "CHARMANDER",
+    debugShowCheckedModeBanner: false,
     home: Home() ,
     
   ));
